@@ -4,6 +4,99 @@
 
 ### Bot programming
 
+## Optimization
+
+<details><summary>Code vs Zombies</summary>
+
+- [ ] Bash
+- [ ] C
+- [x] C#
+- [ ] C++
+- [ ] Clojure
+- [ ] Dart
+- [ ] F#
+- [ ] Go
+- [ ] Groovy
+- [ ] Haskell
+- [ ] Java
+- [ ] JavaScript
+- [ ] Lua
+- [ ] OCaml
+- [ ] ObjectiveC
+- [ ] PHP
+- [ ] Pascal
+- [ ] Perl
+- [ ] Python
+- [x] Python3
+- [ ] Ruby
+- [ ] Rust
+- [ ] Scala
+- [ ] Swift
+- [ ] Swift3
+- [ ] VB.NET
+</details>
+
+<details><summary>Code of the Rings</summary>
+
+- [ ] Bash
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [ ] Clojure
+- [ ] Dart
+- [ ] F#
+- [ ] Go
+- [ ] Groovy
+- [ ] Haskell
+- [x] Java
+- [ ] JavaScript
+- [ ] Lua
+- [ ] OCaml
+- [ ] ObjectiveC
+- [ ] PHP
+- [ ] Pascal
+- [ ] Perl
+- [ ] Python
+- [ ] Python3
+- [ ] Ruby
+- [ ] Rust
+- [ ] Scala
+- [ ] Swift
+- [ ] Swift3
+- [ ] VB.NET
+</details>
+
+<details><summary>Mars Lander</summary>
+
+- [ ] Bash
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [ ] Clojure
+- [ ] Dart
+- [ ] F#
+- [ ] Go
+- [ ] Groovy
+- [ ] Haskell
+- [x] Java
+- [ ] JavaScript
+- [ ] Lua
+- [ ] OCaml
+- [ ] ObjectiveC
+- [ ] PHP
+- [ ] Pascal
+- [ ] Perl
+- [ ] Python
+- [ ] Python3
+- [ ] Ruby
+- [ ] Rust
+- [ ] Scala
+- [ ] Swift
+- [ ] Swift3
+- [ ] VB.NET
+</details>
+
+
 ## Practice
 
 ### Easy
