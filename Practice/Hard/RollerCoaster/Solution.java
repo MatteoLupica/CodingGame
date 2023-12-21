@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 // this java code scored 61%
-public class MemoryRide {
+public class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
